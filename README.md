@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **web development for tractors!**
 
-- 🌱 I’m currently learning **NET 5+, Angular 10+ and Javascript**
+- 🌱 I’m currently learning **NET 8+, Angular 17+ and Typescript**
 
 - 💬 Ask me about **C#, Linux and how computers work**
 
