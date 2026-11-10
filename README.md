@@ -33,7 +33,7 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-<img align="center" src="https://github-stats-extended.vercel.app/api?username=alessandroros&show_icons=true&include_all_commits=true&theme=tokyonight&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="alessandroros stats" width="49%" />
+<img align="center" src="https://github-stats-extended.vercel.app/api?username=alessandroros&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&count_private=true" alt="alessandroros stats" width="49%" />
 <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=alessandroros&layout=compact&langs_count=4&theme=tokyonight&hide_border=true" alt="alessandroros top languages" width="38%" />
 </p>
 <p align="left">
