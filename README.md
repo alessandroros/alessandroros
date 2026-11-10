@@ -34,7 +34,7 @@
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=alessandroros&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="alessandroros stats" width="49%" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandroros&layout=compact&theme=tokyonight&hide_border=true" alt="alessandroros top languages" width="38%" />
+<img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=alessandroros&layout=compact&langs_count=4&theme=tokyonight&hide_border=true" alt="alessandroros top languages" width="38%" />
 </p>
 <p align="left">
 <img src="https://streak-stats.demolab.com/?user=alessandroros&theme=tokyonight&hide_border=true" alt="alessandroros streak stats" />
